@@ -30,8 +30,9 @@
   
   如部分切割结果：
   
-  ![Image not found](https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/005.png)
+  <div align=center><img width="555" height="425" src="https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/005.png"/></div>
   
-  ![Image not found](https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/006.png)
+   <div align=center><img width="555" height="425" src="https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/006.png"/></div>
+   
+   <div align=center><img width="555" height="425" src="https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/007.jpg"/></div>
   
-  ![Image not found](https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/007.jpg)
