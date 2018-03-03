@@ -10,11 +10,13 @@
   在二维平面的分裂要求：
   
  
-  ![Image not found](https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/002.png)
+   <div align=center><img width="555" height="425" src="https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/002.png"/></div>
   
-  ![Image not found](https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/003.png)
   
-  ![Image not found](https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/004.png)
+   <div align=center><img width="555" height="425" src="https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/003.png"/></div>
+
+
+   <div align=center><img width="555" height="425" src="https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/004.png"/></div>
   
   note0：该物体用一个三维数组表示。
   
@@ -32,7 +34,9 @@
   
   <div align=center><img width="555" height="425" src="https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/005.png"/></div>
   
+  
    <div align=center><img width="555" height="425" src="https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/006.png"/></div>
-   
+
+
    <div align=center><img width="555" height="425" src="https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/007.jpg"/></div>
   
