@@ -34,4 +34,4 @@
   
   ![Image not found](https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/006.png)
   
-  ![Image not found](https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/007.png)
+  ![Image not found](https://github.com/Schneizelw/-Simulate-crystal-splitting/blob/master/img/007.jpg)
